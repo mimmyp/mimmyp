@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mimmyp
-- 👀 I’m interested in Automation Testing
-- 🌱 I’m currently learning Software Testing
+- 👀 I’m interested in Software Testing
+- 🌱 I’m currently learning Automation Testing
 - 💞️ I’m looking to collaborate on automation testing projects
 - 📫 How to reach me : premcevskam@yahoo.com
 
